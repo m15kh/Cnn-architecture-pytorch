@@ -12,7 +12,7 @@ This repository contains implementations of CNN architectures in PyTorch, with a
 
 ## Features
 
-- VGG16 network implementation from scratch
+- VGG16 network implementation from scratch 
 - Training and testing utilities
 - CIFAR10 dataset integration
 - GPU support with automatic device detection
