@@ -7,7 +7,7 @@ This repository contains implementations of CNN architectures in PyTorch, with a
 - `Cnn-architecture-pytorch/`
   - `main_VGG.py` - Data loading utilities for CIFAR10
   - `min_ivgg_net.py` - A minimal implementation of VGG network
-  - `VGGNet.py` - Complete VGG16 implementation with training utilities
+  - `VGGNet.py` - Complete VGG16 implementation with training utilities 
   - `vgg16.ipynb` - Jupyter notebook exploring VGG16 architecture
 
 ## Features
